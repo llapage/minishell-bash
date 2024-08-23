@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 This project is a simplified shell, similar to bash, implemented in C for macOS and linux with "make linux" thanks to the makefile. The shell provides basic command execution and supports a variety of built-in commands, input/output redirection, and pipe handling.
 
-Features
+**Features**
 
 Basic Command Execution: Execute common commands like ls, echo, pwd, etc.
 Built-in Commands: Supports cd, export, unset, env, exit, and echo.
